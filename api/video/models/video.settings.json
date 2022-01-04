@@ -12,10 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-  "oembed": {
-    "type": "oembed",
-    "columnType": "longtext"
-  },
+ 
     "Video": {
       "model": "file",
       "via": "related",
